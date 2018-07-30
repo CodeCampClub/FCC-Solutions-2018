@@ -1,0 +1,1 @@
+{"index.jsx":"const addMessage = (message) => {\n  return {\n    type: 'ADD',\n    message: message\n  }\n};\n\n// change code below this line\nconst mapDispatchToProps = (dispatch) => {\n    return  {\n        submitNewMessage: function(newMessage){\n      dispatch(addMessage(newMessage));\n        }\n    }\n}"}
