@@ -1,0 +1,1 @@
+{"index.html":"<style>\n  .red-text {\n    color: #F00;\n  }\n  .fuchsia-text {\n    color: #F0F;\n  }\n  .cyan-text {\n    color: #0FF;\n  }\n  .green-text {\n    color: #0F0;\n  }\n</style>\n\n<h1 class=\"red-text\">I am red!</h1>\n\n<h1 class=\"fuchsia-text\">I am fuchsia!</h1>\n\n<h1 class=\"cyan-text\">I am cyan!</h1>\n\n<h1 class=\"green-text\">I am green!</h1>"}

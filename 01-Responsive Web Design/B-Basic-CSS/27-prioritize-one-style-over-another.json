@@ -1,0 +1,9 @@
+<<<<<<< HEAD:01-Responsive Web Design/B-Basic-CSS/27-prioritize-one-style-over-another.json
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n  .pink-text{\n    color: pink;\n  }\n</style>\n<h1 class=\"pink-text\">Hello World!</h1>"}
+=======
+<<<<<<< HEAD
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n  .pink-text{\n    color: pink;\n  }\n</style>\n<h1 class=\"pink-text\">Hello World!</h1>"}
+=======
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n\n  .pink-text {\n    color: pink;\n  }\n</style>\n<h1 class=\"pink-text\">Hello World!</h1>"}
+>>>>>>> JeanB
+>>>>>>> master:01-Responsive Web Design/B-Basic-CSS/prioritize-one-style-over-another.json

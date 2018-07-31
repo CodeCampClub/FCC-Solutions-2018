@@ -1,0 +1,1 @@
+{"index.jsx":"\nclass StatefulComponent extends React.Component {\n\tconstructor(props) {\n\t\tsuper(props);\n\t\tthis.state = {\n\t\t\tname: 'Free Code Camp!'\n\t\t}\n\t}\n  render() {\n    return (\n\t    <div>\n\t    \t<h1>{this.state.name}</h1>\n\t    </div>\n    );\n  }\n};"}

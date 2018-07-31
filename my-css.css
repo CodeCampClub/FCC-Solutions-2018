@@ -1,0 +1,40 @@
+.map-block-time {
+  color: beige;
+}
+
+.map-accordion-panel-heading,
+.map-accordion-panel-title,
+.map-accordion-panel-body {
+  background-color: darkseagreen;
+}
+
+.cm-s-default {
+  color: #014013;
+}
+
+h2 {
+  color: beige;
+}
+
+.CodeMirror-lint-markers {
+  width: 16px;
+  background-color: darkgreen;
+}
+
+.challenges-preview {
+  background-color: cornflowerblue;
+}
+
+.CodeMirror-linenumbers {
+  background-color: darkgreen;
+}
+
+.CodeMirror-wrap {
+  background-color: black;
+  color: yellowgreen;
+}
+
+.app-content {
+  background-color: black;
+  color: yellowgreen;
+}

@@ -1,0 +1,1 @@
+{"index.jsx":"const JSX = (\n    <div>\n        <h1>Hello JSX!</h1>\n        <p>Some info</p>\n        <ul>\n            <li>An item</li>\n            <li>Another item</li>\n            <li>A third item</li>\n        </ul>\n    </div>\n);\n"}

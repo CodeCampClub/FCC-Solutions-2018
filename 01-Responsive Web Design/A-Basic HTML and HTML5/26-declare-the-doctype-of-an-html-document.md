@@ -1,0 +1,1 @@
+# 26 - Declare the Doctype of an HTML Document

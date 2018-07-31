@@ -1,0 +1,9 @@
+<<<<<<< HEAD:01-Responsive Web Design/B-Basic-CSS/26-inherit-styles-from-the-body-element.json
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family:monospace;\n    color: green\n  }\n\n</style>\n<h1> Hello World!</h1>\n"}
+=======
+<<<<<<< HEAD
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family:monospace;\n    color: green\n  }\n\n</style>\n<h1> Hello World!</h1>\n"}
+=======
+{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n\n</style>\n<h1>Hello World</h1>"}
+>>>>>>> JeanB
+>>>>>>> master:01-Responsive Web Design/B-Basic-CSS/inherit-styles-from-the-body-element.json

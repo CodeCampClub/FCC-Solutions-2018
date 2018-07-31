@@ -1,0 +1,1 @@
+{"index.jsx":"class MyComponent extends React.Component {\n\tconstructor(props) {\n\t\tsuper(props);\n\t\tthis.state = {\n\t\t\tname: 'freeCodeCamp'\n\t\t}\n\t}\n  render() {\n    return (\n\t    <div>\n\t\t\t\t{ /* change code below this line */ }\n\t\t\t\t<h1>{this.state.name}</h1>\n\t    \t{ /* change code above this line */ }\n\t    </div>\n    );\n  }\n};"}

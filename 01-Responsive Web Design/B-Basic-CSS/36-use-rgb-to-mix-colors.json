@@ -1,0 +1,9 @@
+<<<<<<< HEAD:01-Responsive Web Design/B-Basic-CSS/36-use-rgb-to-mix-colors.json
+{"index.html":"<style>\n  .red-text {\n    color: rgb(255,0,0);\n  }\n  .orchid-text {\n    color: rgb(218,112,214);\n  }\n  .sienna-text {\n    color: rgb(160,82,45);\n  }\n  .blue-text {\n    color: rgb(0,0,255);\n  }\n</style>\n\n<h1 class=\"red-text\">I am red!</h1>\n\n<h1 class=\"orchid-text\">I am orchid!</h1>\n\n<h1 class=\"sienna-text\">I am sienna!</h1>\n\n<h1 class=\"blue-text\">I am blue!</h1>"}
+=======
+<<<<<<< HEAD
+{"index.html":"<style>\n  .red-text {\n    color: rgb(255,0,0);\n  }\n  .orchid-text {\n    color: rgb(218,112,214);\n  }\n  .sienna-text {\n    color: rgb(160,82,45);\n  }\n  .blue-text {\n    color: rgb(0,0,255);\n  }\n</style>\n\n<h1 class=\"red-text\">I am red!</h1>\n\n<h1 class=\"orchid-text\">I am orchid!</h1>\n\n<h1 class=\"sienna-text\">I am sienna!</h1>\n\n<h1 class=\"blue-text\">I am blue!</h1>"}
+=======
+{"index.html":"<style>\n  .red-text {\n    color: rgb(255, 0, 0);\n  }\n  .orchid-text {\n    color: rgb(218, 112, 214);\n  }\n  .sienna-text {\n    color: rgb(160, 82, 45);\n  }\n  .blue-text {\n    color: rgb(0, 0, 255);\n  }\n</style>\n\n<h1 class=\"red-text\">I am red!</h1>\n\n<h1 class=\"orchid-text\">I am orchid!</h1>\n\n<h1 class=\"sienna-text\">I am sienna!</h1>\n\n<h1 class=\"blue-text\">I am blue!</h1>"}
+>>>>>>> JeanB
+>>>>>>> master:01-Responsive Web Design/B-Basic-CSS/use-rgb-to-mix-colors.json

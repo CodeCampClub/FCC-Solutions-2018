@@ -1,0 +1,1 @@
+{"index.html":"<body>\n  <ul>\n    <li>Example</li>\n    <li>Example</li>\n    <li>Example</li>\n  </ul>\n  <script>\n    // Add your code below this line\n    const listItems = d3.selectAll(\"li\")\n                        .text(\"list item\");\n    \n    \n    // Add your code above this line\n  </script>\n</body>"}

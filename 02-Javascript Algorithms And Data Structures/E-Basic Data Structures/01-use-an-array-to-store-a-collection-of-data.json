@@ -1,0 +1,1 @@
+{"index.js":"let yourArray = ['one', 2, 'three', true, false, undefined, null];\r\nconsole.log(yourArray.length);"}

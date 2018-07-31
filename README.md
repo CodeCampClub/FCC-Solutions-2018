@@ -1,28 +1,20 @@
-# FCC-Work (2016-2017)
-[FreeCodeCamp Work](https://www.freecodecamp.com/map)
-
 ## Table of-Contents
 
-No. | Title | Link
-| ------------- |:-------------| -----:|
-1 | Intro to freeCodeCamp | +  
-2 | Responsive Web Design | +
-3 | Basic HTML and HTML5 (5 hours) | +
-4 | Basic CSS (5 hours) | +
-5 | Applied Visual Design (5 hours) | +
-6 | Applied Accessibility (5 hours) | +
-7 | Responsive Web Design Principles (5 hours) | +
-8 | CSS Flexbox (5 hours) | +
-9 | Applied Responsive Web Design Projects | +
+No. | Title 
+| ------------- |:-------------|
+1 | [Responsive Web Design Certification (300 hours)](/01-Responsive%20Web%20Design)
+2 | [Javascript Algorithms And Data Structures Certification (300 hours)](/02-Javascript%20Algorithms%20And%20Data%20Structures) 
+3 | [Front End Libraries Certification (300 hours)](/03-Front%20End%20Libraries)
+4 | [Data Visualization Certification (300 hours)](/04-Data%20Visualization)
+5 | [Apis And Microservices Certification (300 hours)](/05-Apis%20And%20Microservices)
+6 | [Information Security And Quality Assurance Certification (300 hours)](/06-Information%20Security%20And%20Quality%20Assurance)
+7 | [Coding Interview Prep (Thousands of hours of challenges)](/07-Coding%20Interview%20Questions%20And%20Take%20Home%20Assignments)
 
 ## Notes:
 
-This is for the Newer version of freeCodeCamp, if you are looking for the repo for the older version, you can find it here: 
-
-We've started a new repo due to the changes in the FCC course structure. This way, people on the previous / current version can still find what they are looking for.
+This is the *latest* version of the freeCodeCamp curriculum.
 
 ### Versions
 
-[Older Version](https://github.com/profoundhub/FCC-Work/): [https://github.com/profoundhub/FCC-Work/](https://github.com/profoundhub/FCC-Work/)
-
-[New Repo](https://github.com/profoundhub/New-FCC-2018/) 
+* [Previous Version](https://github.com/profoundhub/FCC-Work/)
+* [Original Repo We Forked](https://github.com/profoundhub/New-FCC-2018/) 

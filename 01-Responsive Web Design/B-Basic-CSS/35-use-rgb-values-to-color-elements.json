@@ -1,0 +1,9 @@
+<<<<<<< HEAD:01-Responsive Web Design/B-Basic-CSS/35-use-rgb-values-to-color-elements.json
+{"index.html":"<style>\n  body {\n    background-color: rgb(0,0,0);\n  }\n</style>"}
+=======
+<<<<<<< HEAD
+{"index.html":"<style>\n  body {\n    background-color: rgb(0,0,0);\n  }\n</style>"}
+=======
+{"index.html":"<style>\n  body {\n    background-color: rgb(0, 0, 0);\n  }\n</style>"}
+>>>>>>> JeanB
+>>>>>>> master:01-Responsive Web Design/B-Basic-CSS/use-rgb-values-to-color-elements.json

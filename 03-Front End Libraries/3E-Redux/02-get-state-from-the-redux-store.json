@@ -1,0 +1,1 @@
+{"index.jsx":"const store = Redux.createStore(\n\t(state = 5) => state\n);\n\n// change code below this line\nconst currentState = store.getState();\nconsole.log(store.getState());"}

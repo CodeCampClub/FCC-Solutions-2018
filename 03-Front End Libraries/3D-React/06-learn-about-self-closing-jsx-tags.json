@@ -1,0 +1,1 @@
+{"index.jsx":"const JSX = (\n    <div>\n        {/* change code below this line */}\n        <h2>Welcome to React!</h2> <br />\n        <p>Be sure to close all tags!</p>\n        <hr />\n        {/* change code above this line */}\n    </div>\n);\n\nReactDOM.render(JSX, document.getElementById('challenge-node'));"}

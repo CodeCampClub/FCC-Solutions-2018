@@ -1,0 +1,1 @@
+{"index.jsx":"const ShoppingCart = (props) => {\n  return (\n\t\t<div>\n\t\t\t<h1>Shopping Cart Component</h1>\n\t\t</div>\n  )\n};\n\n// change code below this line\nShoppingCart.defaultProps = {\n\titems: 0\n}"}

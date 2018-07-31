@@ -1,0 +1,1 @@
+{"index.jsx":"const JSX = (\n<div>\n\t<h1>This is a block of JSX</h1>\n\t{ /* this is a JSX comment */ }\n\t<p>Here's a subtitle</p>\n</div>);"}

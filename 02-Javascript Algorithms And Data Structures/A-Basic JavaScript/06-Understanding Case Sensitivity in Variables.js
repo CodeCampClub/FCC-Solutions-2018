@@ -1,0 +1,1 @@
+// 6-Understanding Case Sensitivity in Variables.js

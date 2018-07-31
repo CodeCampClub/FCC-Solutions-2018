@@ -1,0 +1,1 @@
+# Remove Items Using splice()

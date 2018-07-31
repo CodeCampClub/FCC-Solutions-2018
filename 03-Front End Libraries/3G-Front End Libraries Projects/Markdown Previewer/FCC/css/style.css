@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css?family=Russo+One");
+body {
+  background: #87b5b5;
+  margin: 10px 0;
+}
+
+#preview,
+.title {
+  display: inline-block;
+}
+
+.colorScheme, .editorWrap textarea, .previewWrap {
+  background-color: #c0d8d8;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+  border-top: none;
+}
+
+.toolbar {
+  position: relative;
+  background-color: #4aa3a3;
+  padding: 4px 4px 3px 3px;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+  font-family: Russo One;
+  font-size: 15px;
+}
+.toolbar i {
+  width: 25px;
+  color: black;
+  margin-left: 5px;
+}
+.toolbar .fa-arrows-alt,
+.toolbar .fa-compress {
+  position: absolute;
+  right: -5px;
+}
+
+.fa-retweet:hover,
+.fa-compress:hover,
+.fa-arrows-alt:hover {
+  color: #57e2b1;
+  cursor: pointer;
+}
+
+.fa-free-code-camp {
+  margin-right: 3px;
+}
+
+.editorWrap {
+  width: 600px;
+  margin: 18px auto;
+}
+.editorWrap .toolbar {
+  width: 99%;
+}
+.editorWrap textarea {
+  width: 99%;
+  min-height: 200px;
+  margin-bottom: -5px;
+  resize: vertical;
+  outline: none;
+  padding-left: 5px;
+  padding-top: 5px;
+  font-size: 12px;
+}
+
+.converter {
+  width: 100px;
+  text-align: center;
+  font-size: 35px;
+  margin: auto;
+}
+
+.previewWrap {
+  width: 800px;
+  margin: 20px auto;
+  min-height: 200px;
+  overflow-wrap: break-word;
+  padding-right: 20px;
+}
+.previewWrap .toolbar {
+  left: -1px;
+  width: 100%;
+  padding-right: 17px;
+}
+.previewWrap #preview {
+  margin-left: 5px;
+  margin-top: -10px;
+  width: 100%;
+}
+
+@media screen and (max-width: 850px) {
+  .previewWrap {
+    width: 630px;
+  }
+
+  .editorWrap {
+    width: 550px;
+  }
+}
+.maximized {
+  width: 96%;
+  min-height: 100vh;
+  margin: auto;
+}
+.maximized textarea {
+  min-height: 95vh;
+  resize: none;
+}
+
+.hide {
+  display: none;
+}
+
+@media screen and (max-width: 650px) {
+  body {
+    margin: 5px 0;
+  }
+
+  .editorWrap {
+    width: 80vw;
+    margin: 0 auto;
+  }
+
+  .maximized {
+    width: 95%;
+    margin: auto;
+  }
+
+  .previewWrap {
+    width: 95vw;
+  }
+  .previewWrap #preview {
+    width: 100%;
+  }
+  .previewWrap #preview img {
+    height: 200px;
+  }
+}
+#preview blockquote {
+  border-left: 3px solid #224B4B;
+  color: #224B4B;
+  padding-left: 5px;
+  margin-left: 25px;
+}
+#preview code {
+  background: white;
+  padding: 1px 4px 2px 4px;
+  font-size: 12px;
+  font-weight: bold;
+}
+#preview pre {
+  background: white;
+  padding: 5px 0 5px 5px;
+}
+#preview h1 {
+  border-bottom: 2px solid #224B4B;
+}
+#preview h2 {
+  border-bottom: 1px solid #224B4B;
+}
+#preview table {
+  border-collapse: collapse;
+}
+#preview td,
+#preview th {
+  border: 2px solid #224B4B;
+  padding-left: 5px;
+  padding-right: 5px;
+}

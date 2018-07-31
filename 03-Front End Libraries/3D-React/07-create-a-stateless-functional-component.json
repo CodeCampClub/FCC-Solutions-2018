@@ -1,0 +1,1 @@
+{"index.jsx":"// React: Create a Stateless Functional Component\n\nconst MyComponent = function() {\n\t// change code below this line\n\treturn (\n\t\t<div>\n\t\t\tDemo Solution\n\t\t</div>\n\t);\n\t// change code above this line\n}"}

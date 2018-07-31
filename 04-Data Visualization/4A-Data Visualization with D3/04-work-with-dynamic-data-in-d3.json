@@ -1,0 +1,1 @@
+{"index.html":"<body>\n  <script>\n    const dataset = [12, 31, 22, 17, 25, 18, 29, 14, 9];\n    \n    d3.select(\"body\").selectAll(\"h2\")\n      .data(dataset)\n      .enter()\n      .append(\"h2\")\n      // Add your code below this line\n      \n      .text((d) => d + \" USD\");\n      \n      // Add your code above this line\n  </script>\n</body>"}

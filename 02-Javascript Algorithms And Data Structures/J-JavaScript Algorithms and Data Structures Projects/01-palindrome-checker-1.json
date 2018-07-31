@@ -1,0 +1,1 @@
+{"index.js":"const palindrome = (str) => {\n return str.replace(/[\\W_]/g,\"\").toLowerCase() === str.replace(/[\\W_]/g,\"\").toLowerCase().split(\"\").reverse().join(\"\");\n}\npalindrome(\"eye\");"}

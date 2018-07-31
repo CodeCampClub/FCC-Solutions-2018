@@ -1,0 +1,1 @@
+// 2-Declare JavaScript Variables.js

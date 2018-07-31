@@ -1,0 +1,1 @@
+{"index.html":"<body>\n  <script>\n    // Add your code below this line\n    const scale = d3.scaleLinear();\n    scale.domain([250, 500]);\n    scale.range([10, 150]);\n    \n    // Add your code above this line\n    const output = scale(50);\n    d3.select(\"body\")\n      .append(\"h2\")\n      .text(output);\n  </script>\n</body>"}

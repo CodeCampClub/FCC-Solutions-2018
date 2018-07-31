@@ -1,0 +1,9 @@
+<<<<<<< HEAD:01-Responsive Web Design/B-Basic-CSS/25-style-the-html-body-element.json
+{"index.html":"<style>\n  body {\n    background-color: black;\n  }\n\n</style>"}
+=======
+<<<<<<< HEAD
+{"index.html":"<style>\n  body {\n    background-color: black;\n  }\n\n</style>"}
+=======
+{"index.html":"<style>\n  body {\n    background-color: black;\n  }\n</style>"}
+>>>>>>> JeanB
+>>>>>>> master:01-Responsive Web Design/B-Basic-CSS/style-the-html-body-element.json
